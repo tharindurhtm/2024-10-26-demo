@@ -11,7 +11,14 @@
  }
 
 #sample-id-selector{
-    background-color: red;
+    background-color:darkcyan;
     text-align: center;
     font-size: larger;
 }
+
+ body{
+    background-image: url(../img/pexels-quang-nguyen-vinh-222549-2176593.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} 
